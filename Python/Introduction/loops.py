@@ -1,5 +1,5 @@
 """
-Problem: Arithmetic Operators
+Problem: Loops
 Platform: HackerRank
 Difficulty: Easy
 """

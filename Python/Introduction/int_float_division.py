@@ -1,3 +1,10 @@
+"""
+Problem:Division
+Platform: HackerRank
+Difficulty: Easy
+"""
+
+
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
